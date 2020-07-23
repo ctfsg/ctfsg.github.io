@@ -16,7 +16,7 @@
 title: CTF.SG
 author: CTF.SG
 description: Welcome to CTF.SG
-baseurl: "/ctfsg" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: "https://ctf.sg" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC+8
