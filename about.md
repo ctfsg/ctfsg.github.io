@@ -13,7 +13,8 @@ description: About CTF.SG
 <p style='text-align: justify;'>CTF.SG was founded in 1299 by a group of friends with Sang Nila Utama. Together with William Farquhar and Sir Stamford Raffles, they organized local CTF competitions with the goal of spreading their love of CTFs. Since then, many have joined their ranks in their expeditions, and they have conquered many competitions together. In 2018, they won the famed Black Badge in the Red Alert ICS CTF at DEFCON 26. Now, as they continue in their journey to improve as hackers, they hope to build a stronger and more united CTF community in Singapore. </p>
 
 # Achievements
-  
+
+| Cloud Village CTF 2020 (DEFCON) | **3rd Place** |  
 | Hack-A-Sat 2020 | **18th (top 0.8%)** |
 | Red Alert ICS CTF 2019 (DEFCON) | **1st Place** |
 | Red Alert ICS CTF 2018 (DEFCON) | **1st Place, Black Badge** |

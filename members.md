@@ -27,6 +27,9 @@ NOTE: CHECK AND MAKE SURE IT DOESN'T OVERFLOW!
 | <img class="avatar" src="../assets/img/profile/ragulbalaji.png"/> | <b>Ragul Balaji</b> <i>(@ragulbalaji)</i>  \| <a href="https://www.linkedin.com/in/ragulbalaji/"><img class="icon" src="../assets/img/icons/linkedin.png"/></a> <a href="https://github.com/ragulbalaji"><img class="icon" src="../assets/img/icons/github.png"/></a> <a href="http://ragulbalaji.com/"><img class="icon" src="../assets/img/icons/website.png"/></a> <br /> Hacker, Maker, Engineer, Generalist. Problem Solver.<br /> He is neither Normie nor NPC.<br />  <br /> Hack 🪓 Anything / 🏴‍☠️ T0X1C V4P0R / 📲 Hardware |
 |||
 |||
+| <img class="avatar" src="../assets/img/profile/keehock.png"/>  | <b>Tan Kee Hock</b> <i>(@tankeehock)</i> \| <a href="https://github.com/tankeehock"><img class="icon" src="../assets/img/icons/github.png"/></a> <br />Known liability<br/>Hopes to survive in this difficult world <br /> <br />  🕸️ Web / 🌐 Network / ☁️ Cloud | 
+|||
+|||
 | <img class="avatar" src="../assets/img/profile/winston.jfif"/> | <b>Winston Ho</b> <i>(@ViolentTestPen)</i>  \| <a href="https://twitter.com/violenttestpen"><img class="icon" src="../assets/img/icons/twitter.png"/></a> <a href="https://www.linkedin.com/in/winstonhmk/"><img class="icon" src="../assets/img/icons/linkedin.png"/></a> <a href="https://github.com/winstonho90"><img class="icon" src="../assets/img/icons/github.png"/></a> <a href=""><img class="icon" src="../assets/img/icons/website.png"/></a> <br /> Winston is a SMU graduate working in the cybersecurity field. <br /> His stash of script kiddie tools put Batman's utility belt to shame <br />  <br /> 🕸️ Web / 🌐 Network / 🔗 Blockchain  |
 |||
 |||
