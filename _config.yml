@@ -19,7 +19,7 @@ description: Welcome to CTF.SG
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://ctf.sg" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
-timezone: UTC+8
+#timezone: UTC+8
 exclude:
   - Gemfile
   - Gemfile.lock
