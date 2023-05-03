@@ -7,3 +7,5 @@ main:
     url: /members/
   - title: "Writeups"
     url: /writeups/
+  - title: "CTF"
+    url: /ctf/
